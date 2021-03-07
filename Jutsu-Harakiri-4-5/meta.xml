@@ -1,0 +1,7 @@
+<meta>
+	<info author="Mcnciolas208" version="1.0" type="script" name="Tiempo Jugado" description="Tiempo jugado de cada jugador" />
+	<script src="server.lua" type="server"/>/>
+	<script src="client.lua" type="client"/>/>
+  	<file src="bluecircl.png" />
+  	<file src="Hidan.mp3" />
+</meta>
